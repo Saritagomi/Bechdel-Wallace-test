@@ -20,4 +20,4 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/bechdel-wallace-data-analysis.git
+   git clone https://github.com/Saritagomi/bechdel-wallace-data-analysis.git
